@@ -2,7 +2,7 @@
 
 ## Curso de desarrollo con Node JS - Profesor: Gabriel Alberini
 
-### Módulo 1: Node.js
+### Módulo 1: Node JS
 
 ### Unidad 1: Introducción a Node JS
 
