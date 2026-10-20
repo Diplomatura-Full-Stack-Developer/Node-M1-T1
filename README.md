@@ -14,8 +14,6 @@ Instalar y configurar Node JS.
 
 Comprender la ejecución de código JavaScript fuera del navegador y aplicar el uso básico de módulos nativos.
 
-### Consideraciones:
-
 ### Capturas de pantallas:
 
 ![Captura de pantalla 1](./assets/console.png)
