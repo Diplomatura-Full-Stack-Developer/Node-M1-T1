@@ -18,6 +18,8 @@ Comprender la ejecución de código JavaScript fuera del navegador y aplicar el 
 
 ### Capturas de pantallas:
 
+![Captura de pantalla 1](./assets/console.png)
+
 ### Pasos para la ejecución local:
 
 1. Clonar el repositorio:
@@ -26,10 +28,23 @@ Comprender la ejecución de código JavaScript fuera del navegador y aplicar el 
 git clone https://github.com/Diplomatura-Full-Stack-Developer/Node-M1-T1
 ```
 
+2. Instalar las dependencias:
+
+```bash
+npm install
+```
+
+3. Ejecutar el script:
+
+```bash
+node app.js
+```
+
 ### Recursos utilizados:
 
 - Node JS - Versión 24.20.0 ([https://nodejs.org/es/download/](https://nodejs.org/es/download/))
 - Npm - Versión 12.0.2 (instalado por defecto con Node JS)
+- Chalk - Versión 5.3.0 ([https://www.npmjs.com/package/chalk](https://www.npmjs.com/package/chalk))
 
 ### Alumno: Rubén Seco
 
