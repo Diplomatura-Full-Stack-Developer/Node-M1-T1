@@ -15,7 +15,7 @@ console.log(text("\tMi principal motivación para aprender backend es el deseo d
 
 console.log(separator("--------------------------------"));
 
-console.log(label(`Sistema operativo: `) + text(`${os.platform()}`));
+console.log(label(`Sistema operativo: `) + text(`${os.type()}`));
 
 console.log(label(`Memoria libre: `) + text(`${Math.round(os.freemem() / 1024 / 1024 / 1024).toFixed(2)} GB`));
 

@@ -16,7 +16,7 @@ Comprender la ejecución de código JavaScript fuera del navegador y aplicar el 
 
 ### Capturas de pantallas:
 
-![Captura de pantalla 1](./assets/console.png)
+![Captura de pantalla](./assets/console.png)
 
 ### Pasos para la ejecución local:
 
