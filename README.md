@@ -42,7 +42,7 @@ node app.js
 
 - Node JS - Versión 24.20.0 ([https://nodejs.org/es/download/](https://nodejs.org/es/download/))
 - Npm - Versión 12.0.2 (instalado por defecto con Node JS)
-- Chalk - Versión 5.3.0 ([https://www.npmjs.com/package/chalk](https://www.npmjs.com/package/chalk))
+- Chalk - Versión 6.0.1 ([https://www.npmjs.com/package/chalk](https://www.npmjs.com/package/chalk))
 
 ### Alumno: Rubén Seco
 
